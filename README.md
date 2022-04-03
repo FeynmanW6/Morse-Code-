@@ -1,2 +1,2 @@
-# Morse-Code-
+# Morse-Code
 Fairly simple morse code translator...
